@@ -1,0 +1,18 @@
+.b-br{
+    border: 2px solid black;
+}
+
+.service-card{
+    height: 430px;
+    width: 370px;
+    border: none;
+    border-radius: 15px;
+    background-color: #FFF2EB;
+}
+
+.service-inner{
+    height: 110px;
+    width: 80%;
+    border-radius: 12px;
+    /* border: 2px solid black; */
+}
